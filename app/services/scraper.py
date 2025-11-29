@@ -128,3 +128,5 @@ def scrape_product_metadata(product_url):
         log_message('error', f'Scraping error: {str(e)}', {'url': product_url})
         return {'error': f'Error parsing product page: {str(e)}'}
 
+
+

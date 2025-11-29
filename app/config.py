@@ -23,3 +23,5 @@ class Config:
     PLAYWRIGHT_HEADLESS = True
     PLAYWRIGHT_TIMEOUT = 30000  # 30 seconds
 
+
+

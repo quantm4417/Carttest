@@ -53,3 +53,5 @@ echo "3. Configure user credentials (1-5) via the UI"
 echo "4. Add products in Product Management"
 echo ""
 
+
+

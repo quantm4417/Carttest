@@ -28,3 +28,5 @@ def delete_image_file(image_path):
             return False
     return False
 
+
+

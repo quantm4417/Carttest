@@ -70,3 +70,5 @@ Create `.env` file (copy from `.env.example`):
 - `DATABASE_PATH`: Path to SQLite database
 - `UPLOAD_FOLDER`: Path to upload directory
 
+
+
